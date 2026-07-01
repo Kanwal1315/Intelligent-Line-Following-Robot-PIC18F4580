@@ -56,3 +56,18 @@ Department of Electrical Engineering
 Embedded Systems Design (ESD)
 
 2026
+---
+
+# 📸 Project Preview
+
+## Cover
+*(Cover image will be added soon.)*
+
+## System Components
+![Components](Components.png)
+
+## Working Principle
+![Working](working.png)
+
+## Proteus Circuit
+![Proteus](proteus.png)
