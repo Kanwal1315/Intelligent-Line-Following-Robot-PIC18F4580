@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" width="100%">
+</p>
+
 # 🤖 Intelligent Line Following Robot using PIC18F4580
 
 ## 📖 Project Overview
@@ -10,64 +14,99 @@ The robot follows a predefined path by detecting black and white surfaces using 
 
 ## 🎯 Objectives
 
-- Design an intelligent line-following robot
-- Implement Assembly Language programming on PIC18F4580
-- Simulate the complete circuit in Proteus
-- Control DC motors using the L293D motor driver
+- Design an intelligent line-following robot.
+- Implement Assembly Language programming on PIC18F4580.
+- Simulate the complete circuit in Proteus.
+- Control DC motors using the L293D motor driver.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- PIC18F4580 Microcontroller
-- MPLAB IDE
-- Assembly Language
-- Proteus
-- L293D Motor Driver
-- LDR Sensors
-- DC Motors
+| Category | Technology |
+|----------|------------|
+| Microcontroller | PIC18F4580 |
+| Programming | Assembly Language |
+| IDE | MPLAB IDE |
+| Simulation | Proteus |
+| Motor Driver | L293D |
+| Sensors | LDR Sensors |
+| Actuators | DC Motors |
 
 ---
 
 ## 📂 Repository Structure
 
-- Documentation
-- Presentation
-- Source_Code
-- Proteus
-- Images
-- Videos
+```
+Intelligent-Line-Following-Robot-PIC18F4580
+│
+├── README.md
+├── LICENSE
+├── cover.png
+├── Components.png
+├── working.png
+├── proteus.png
+├── Documentation/
+└── Source_Code/
+```
 
 ---
 
 ## 👨‍💻 Team Members
 
-- Kanwal Shahzad
-- Rida Saman
+- **Kanwal Shahzad**
+- **Rida Saman**
 
 ---
 
 ## 🎓 University
 
-Bahria University
+**Bahria University**
 
 Department of Electrical Engineering
 
 Embedded Systems Design (ESD)
 
 2026
+
 ---
 
 # 📸 Project Preview
 
-## Cover
-*(Cover image will be added soon.)*
+## 🧩 System Components
 
-## System Components
 ![Components](Components.png)
 
-## Working Principle
+---
+
+## ⚙️ Working Principle
+
 ![Working](working.png)
 
-## Proteus Circuit
+---
+
+## 💻 Proteus Circuit
+
 ![Proteus](proteus.png)
+
+---
+
+## 🚀 Features
+
+- Intelligent line following
+- LDR sensor-based path detection
+- PIC18F4580 Microcontroller
+- Assembly Language Programming
+- Proteus Simulation
+- Dual DC Motor Control
+- L293D Motor Driver
+
+---
+
+## 📌 Author
+
+**Kanwal Shahzad**
+
+BS Robotics Intelligence System
+
+Bahria University
